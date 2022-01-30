@@ -1,0 +1,13 @@
+E:\DIGITAL INNOVATION ONE\Bootcamp_GFT\abstraindo um jogo de RPG\conceitos da OOP\src\bin\Debug\netcoreapp3.1\conceitos da OOP.exe
+E:\DIGITAL INNOVATION ONE\Bootcamp_GFT\abstraindo um jogo de RPG\conceitos da OOP\src\bin\Debug\netcoreapp3.1\conceitos da OOP.deps.json
+E:\DIGITAL INNOVATION ONE\Bootcamp_GFT\abstraindo um jogo de RPG\conceitos da OOP\src\bin\Debug\netcoreapp3.1\conceitos da OOP.runtimeconfig.json
+E:\DIGITAL INNOVATION ONE\Bootcamp_GFT\abstraindo um jogo de RPG\conceitos da OOP\src\bin\Debug\netcoreapp3.1\conceitos da OOP.runtimeconfig.dev.json
+E:\DIGITAL INNOVATION ONE\Bootcamp_GFT\abstraindo um jogo de RPG\conceitos da OOP\src\bin\Debug\netcoreapp3.1\conceitos da OOP.dll
+E:\DIGITAL INNOVATION ONE\Bootcamp_GFT\abstraindo um jogo de RPG\conceitos da OOP\src\bin\Debug\netcoreapp3.1\conceitos da OOP.pdb
+E:\DIGITAL INNOVATION ONE\Bootcamp_GFT\abstraindo um jogo de RPG\conceitos da OOP\src\obj\Debug\netcoreapp3.1\conceitos da OOP.csprojAssemblyReference.cache
+E:\DIGITAL INNOVATION ONE\Bootcamp_GFT\abstraindo um jogo de RPG\conceitos da OOP\src\obj\Debug\netcoreapp3.1\conceitos da OOP.AssemblyInfoInputs.cache
+E:\DIGITAL INNOVATION ONE\Bootcamp_GFT\abstraindo um jogo de RPG\conceitos da OOP\src\obj\Debug\netcoreapp3.1\conceitos da OOP.AssemblyInfo.cs
+E:\DIGITAL INNOVATION ONE\Bootcamp_GFT\abstraindo um jogo de RPG\conceitos da OOP\src\obj\Debug\netcoreapp3.1\conceitos da OOP.csproj.CoreCompileInputs.cache
+E:\DIGITAL INNOVATION ONE\Bootcamp_GFT\abstraindo um jogo de RPG\conceitos da OOP\src\obj\Debug\netcoreapp3.1\conceitos da OOP.dll
+E:\DIGITAL INNOVATION ONE\Bootcamp_GFT\abstraindo um jogo de RPG\conceitos da OOP\src\obj\Debug\netcoreapp3.1\conceitos da OOP.pdb
+E:\DIGITAL INNOVATION ONE\Bootcamp_GFT\abstraindo um jogo de RPG\conceitos da OOP\src\obj\Debug\netcoreapp3.1\conceitos da OOP.genruntimeconfig.cache
